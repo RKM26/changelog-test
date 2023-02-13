@@ -1,0 +1,24 @@
+{
+  "name": "changelog-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release:major": "changelog -M",
+    "release:minor": "changelog -m ",
+    "release:patch": "changelog -p "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RKM26/changelog-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RKM26/changelog-test/issues"
+  },
+  "dependencies": {
+    "generate-changelog": "^1.8.0"
+  },
+  "homepage": "https://github.com/RKM26/changelog-test#readme"
+}

@@ -1,13 +1,14 @@
 {
   "name": "changelog-test",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "release:major": "changelog -M",
     "release:minor": "changelog -m ",
     "release:patch": "changelog -p ",
-    "release" : "changelog"
+    "release:push" : "changelog && git add CHANGELOG.md && git commit -m \"updated CHANGELOG.md\" && git push origin && git push origin --tags",
+    "release" : "changelog "
   },
   "repository": {
     "type": "git",

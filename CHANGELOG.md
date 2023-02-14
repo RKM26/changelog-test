@@ -1,3 +1,17 @@
+#### 6.0.0 (2023-02-14)
+
+##### Bug Fixes
+
+*  fix in qa 12 ([79a2d0e5](https://github.com/RKM26/changelog-test/commit/79a2d0e545758a0c4a382b8586fce2465f42502c))
+*  fix in develop 12 ([f02f3670](https://github.com/RKM26/changelog-test/commit/f02f3670421dc1cad4915dbaac341b23ffa5b281))
+
+#### 6.0.0 (2023-02-14)
+
+##### Bug Fixes
+
+*  fix in qa 12 ([79a2d0e5](https://github.com/RKM26/changelog-test/commit/79a2d0e545758a0c4a382b8586fce2465f42502c))
+*  fix in develop 12 ([f02f3670](https://github.com/RKM26/changelog-test/commit/f02f3670421dc1cad4915dbaac341b23ffa5b281))
+
 ## 6.0.0 (2023-02-14)
 
 ## 5.0.0 (2023-02-14)
